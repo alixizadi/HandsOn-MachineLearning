@@ -1,21 +1,16 @@
 Machine Learning Notebooks
 ==========================
 
-# ⚠ The 3rd edition of my book will be released in October 2022. The notebooks are available at [ageron/handson-ml3](https://github.com/ageron/handson-ml3) and contain more up-to-date code.
-
 This project aims at teaching you the fundamentals of Machine Learning in
-python. It contains the example code and solutions to the exercises in the second edition of my O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/):
+python. It contains the example code and solutions to the exercises in the second edition of my O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow]:
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="book" width="150" />
-
-**Note**: If you are looking for the first edition notebooks, check out [ageron/handson-ml](https://github.com/ageron/handson-ml). For the third edition, check out [ageron/handson-ml3](https://github.com/ageron/handson-ml3).
 
 ## Quick Start
 
 ### Want to play with these notebooks online without having to install anything?
 Use any of the following services (I recommended Colab or Kaggle, since they offer free GPUs and TPUs).
 
-**WARNING**: _Please be aware that these services provide temporary environments: anything you do will be deleted after a while, so make sure you download any data you care about._
 
 * <a href="https://colab.research.google.com/github/ageron/handson-ml2/blob/master/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
